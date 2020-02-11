@@ -1,0 +1,81 @@
+﻿  stdafx.cpp
+  action.cpp
+  animation.cpp
+  button.cpp
+c:\users\whyo4\desktop\동물의숲\button.cpp(20): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\whyo4\desktop\동물의숲\button.cpp(21): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cameraManager.cpp
+c:\users\whyo4\desktop\동물의숲\cameramanager.cpp(21): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  effect.cpp
+  effectManager.cpp
+  gameData.cpp
+  gameNode.cpp
+c:\users\whyo4\desktop\동물의숲\gamenode.cpp(107): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\whyo4\desktop\동물의숲\gamenode.cpp(108): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\whyo4\desktop\동물의숲\gamenode.cpp(92): warning C4101: 'hdc' :참조되지 않은 지역 변수입니다.
+c:\users\whyo4\desktop\동물의숲\gamenode.cpp(91): warning C4101: 'ps' :참조되지 않은 지역 변수입니다.
+  gameStartScene.cpp
+  gameTimer.cpp
+  image.cpp
+c:\users\whyo4\desktop\동물의숲\image.cpp(127): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\whyo4\desktop\동물의숲\image.cpp(186): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\whyo4\desktop\동물의숲\image.cpp(243): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\whyo4\desktop\동물의숲\image.cpp(313): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\whyo4\desktop\동물의숲\image.cpp(312): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\whyo4\desktop\동물의숲\image.cpp(326): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\whyo4\desktop\동물의숲\image.cpp(536): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\whyo4\desktop\동물의숲\image.cpp(543): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  imageManager.cpp
+  inGameScene.cpp
+  iniDataManager.cpp
+c:\users\whyo4\desktop\동물의숲\inidatamanager.cpp(46): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+c:\users\whyo4\desktop\동물의숲\inidatamanager.cpp(71): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+c:\users\whyo4\desktop\동물의숲\inidatamanager.cpp(89): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+  inventory.cpp
+  itemBase.cpp
+  keyAniManager.cpp
+  keyManager.cpp
+  loadingScene.cpp
+c:\users\whyo4\desktop\동물의숲\loadingscene.cpp(44): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  mapTool.cpp
+  코드를 생성하고 있습니다...
+c:\users\whyo4\desktop\동물의숲\inidatamanager.cpp(79): warning C4172: 지역 변수 또는 임시: data의 주소를 반환하고 있습니다.
+  컴파일하고 있습니다...
+  mapToolScene.cpp
+  npcBase.cpp
+  nugulStoreScene.cpp
+  player.cpp
+  playerRoomScene.cpp
+  playerTestScene.cpp
+c:\users\whyo4\desktop\동물의숲\playertestscene.cpp(41): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  playGround.cpp
+c:\users\whyo4\desktop\동물의숲\playground.cpp(53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  playSceneManager.cpp
+  progressBar.cpp
+c:\users\whyo4\desktop\동물의숲\progressbar.cpp(19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\whyo4\desktop\동물의숲\progressbar.cpp(25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\whyo4\desktop\동물의숲\progressbar.cpp(39): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\whyo4\desktop\동물의숲\progressbar.cpp(47): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\whyo4\desktop\동물의숲\progressbar.cpp(53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\whyo4\desktop\동물의숲\progressbar.cpp(52): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  sceneManager.cpp
+  soundManager.cpp
+  timeManager.cpp
+c:\users\whyo4\desktop\동물의숲\timemanager.cpp(39): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\time.h(506): note: 'localtime' 선언을 참조하십시오.
+c:\users\whyo4\desktop\동물의숲\timemanager.cpp(56): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\whyo4\desktop\동물의숲\timemanager.cpp(59): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\whyo4\desktop\동물의숲\timemanager.cpp(62): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  timer.cpp
+c:\users\whyo4\desktop\동물의숲\timer.cpp(62): warning C4244: '=': 'float'에서 'unsigned long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  txtData.cpp
+  utils.cpp
+  villageScene.cpp
+  windowAPI.cpp
+c:\users\whyo4\desktop\동물의숲\windowapi.cpp(94): warning C4244: 'return': 'WPARAM'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+c:\users\whyo4\desktop\동물의숲\txtdata.cpp(54): warning C4172: 지역 변수 또는 임시: str의 주소를 반환하고 있습니다.
+  windowAPI.vcxproj -> C:\Users\whyo4\Desktop\동물의숲\x64\Debug\windowAPI.exe
